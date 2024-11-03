@@ -1,4 +1,4 @@
-# ANN Model on MNIST DataSet
+# CNN Model on MNIST DataSet
 ## Introduction:
 This is the Convolutional Model Training of MNIST Data-set! ANN Training is already uploaded on same Data-set. Trained using "Conda Environment" and using Jupyter Notebook as IDE.
 ## Working:
